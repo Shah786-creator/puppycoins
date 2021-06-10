@@ -359,7 +359,7 @@ mark,
   height: auto; }
 
 #myVideo {
-  position: fixed;
+  position: absolute;
     max-width: 1600px;
 }
 
