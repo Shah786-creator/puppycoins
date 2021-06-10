@@ -360,7 +360,8 @@ mark,
 
 #myVideo {
   position: absolute;
-    max-width: 1600px;
+  
+    max-width: 100%;
 }
 
 /* Add some content at the bottom of the video/page */
